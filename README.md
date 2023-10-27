@@ -1,6 +1,6 @@
 # flask-web-server
 
-This repository contains a simple Flask application designed to collect data from a web form and save it to a CSV file. Follow the steps below to set up and run the application locally.
+This repository contains a simple Flask application intended to serve as a backend for a static portfolio template. While presenting a professional portfolio frontend, the application is also equipped to capture and store information from a web form, storing this data in a CSV format for future reference. Dive into the instructions below to initialize and experience the application in a local environment.
 
 ## Setup & Installation
 
